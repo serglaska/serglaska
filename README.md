@@ -6,7 +6,7 @@
 
 **Email:** [onlyjs@protonmail.com](mailto:onlyjs@protonmail.com)  
 **Phone:** +380996683145  
-**Location:** Lviv, Ukraine
+**Location:** Lviv, Ukraine     
 **LinkedIn:** [Serhii](https://www.linkedin.com/in/serhii-front-end-engineer/)
 
 ### Professional Summary

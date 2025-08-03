@@ -5,7 +5,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 **Email:** [onlyjs@protonmail.com](mailto:onlyjs@protonmail.com)  
-**Phone:** +380996683145  
 **Location:** Lviv, Ukraine     
 **LinkedIn:** [Serhii](https://www.linkedin.com/in/serhii-front-end-engineer/)
 

@@ -1,6 +1,6 @@
 # Serhii Petinov
 
-#### Senior Front-end Engineer / React & JavaScript Expert / 5+ years of experience
+#### Senior Front-end Engineer / React & JavaScript Expert / 6+ years of experience
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
@@ -10,7 +10,7 @@
 
 ### Professional Summary
 
-I am a Front-end Engineer with over 5 years of experience building high-performance single-page applications, use React library. I have a passion for creating robust and user-friendly software solutions, with a keen eye for detail and efficiency.
+I am a Front-end Engineer with over 6 years of experience building high-performance single-page applications, use React library. I have a passion for creating robust and user-friendly software solutions, with a keen eye for detail and efficiency.
 
 **Key Skills and Technologies:**
 Proficient in JavaScript, TypeScript, React and Redux.
